@@ -13,6 +13,6 @@ All music rights for broadcast and performance are reserved, except where indica
 
 ## Matt's Off-Road Recovery License
 
-![MORR Logo](pics/MORR Icon-Icon.jpg)
+![MORR Logo](pics/MORR Icon.jpg)
 
 All music with "Matt's Off-Road Recovery" in the name are given full license for **Matt's Off-Road Recovery** to broadcast and to use for performance in their off-road events.  Just give me a small credit.
