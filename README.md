@@ -14,6 +14,9 @@ All music rights for broadcast and performance are reserved, except where indica
 ## Matt's Off-Road Recovery License
 
 All music with "Matt's Off-Road Recovery" in the name are given full license for **Matt's Off-Road Recovery** to broadcast and to use for performance in their off-road events.  Just give me a small credit.
+
+Many of the tunes have the same lyrics, but are set to different music with a different emotional feel.
+
 | <img src="pics/MORR-Icon.jpg" width="96"> | Song Name | Lyrics |
 | :--- | :--- | :--- |
 | <img src="pics/MORR-Icon.jpg" width="64"> | [Katelynn's Cheer](https://github.com/richcsst/My-Music/blob/main/FLAC/Matt's%20Off-Road%20Recovery/Matt's%20Off-Road%20Recovery%20-%20Katelynn's%20Cheer.flac) | [Katelynn's Cheer Lyrics](https://github.com/richcsst/My-Music/blob/main/Lyrics/Matt's%20Off-Road%20Recovery/Matt's%20Off-Road%20Recovery%20-%20Katelynn's%20Cheer.txt)
