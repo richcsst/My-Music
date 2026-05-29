@@ -1,0 +1,29 @@
+[Verse 1]
+Write it once, keep it clean
+Flip a switch, stay unseen
+No more hunting through your code
+When the bug starts to explode
+
+[Pre-Chorus]
+Trace it fast
+See it live
+Keep your lines
+Ready to thrive
+
+[Chorus]
+Debug-Easy, Debug-Easy
+Leave it in, then set it free
+Debug-Easy, Debug-Easy
+Fix it now, ship it easy
+
+[Verse 2]
+In production, still prepared
+Every clue is right there
+No delete, no rewrite
+Just debug by day and night
+
+[Chorus]
+Debug-Easy, Debug-Easy
+Leave it in, then set it free
+Debug-Easy, Debug-Easy
+Fix it now, ship it easy

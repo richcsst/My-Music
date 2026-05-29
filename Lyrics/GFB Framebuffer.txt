@@ -1,0 +1,82 @@
+[Verse 1]
+Perl on the page
+Cursor online
+I load one module
+And make the screen shine
+
+Black on black
+Then a line turns blue
+A tiny shape
+Comes right out through
+
+[Pre-Chorus]
+Rich wrote the bridge
+From code to light
+Graphics Framebuffer
+Feels so right
+
+[Chorus]
+GFB draws fast
+GFB draws fast
+Frame by frame
+Pics appearing fast
+
+GFB draws fast
+GFB draws fast
+Perl to pixels
+Right on blast
+
+[Verse 2]
+I paint a box
+I trace a curve
+Every little draw call
+Has nerve
+
+Low-level screen
+But the touch is clean
+No fancy fuss
+Just what you mean
+
+[Pre-Chorus]
+Type one command
+Watch it appear
+Richard Kelsch
+Made it clear
+
+[Chorus]
+GFB draws fast
+GFB draws fast
+Frame by frame
+Pics appearing fast
+
+GFB draws fast
+GFB draws fast
+Perl to pixels
+Right on blast
+
+[Bridge]
+From script to screen
+No middleman
+You say the shape
+It shows again
+
+A square, a bar
+A tiny dot
+The framebuffer
+Gives all it’s got
+
+[Final Chorus]
+GFB draws fast
+GFB draws fast
+Frame by frame
+Pics appearing fast
+
+GFB draws fast
+GFB draws fast
+Perl to pixels
+Right on blast
+
+GFB draws fast
+GFB draws fast
+Richard Kelsch
+Wrote the path

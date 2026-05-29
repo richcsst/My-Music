@@ -1,0 +1,23 @@
+[Verse 1]
+Term-ANSI Encode, hey
+For Perl, it’s the clean way
+Write your markup, keep it lean
+Turn plain text into a scene
+
+[Chorus]
+ANSI Encode, ANSI Encode
+Color the screen as you go
+ANSI Encode, ANSI Encode
+Server login, ready to glow
+
+[Verse 2]
+Simple tags, easy flow
+Graphical text in every row
+Make the terminal shine bright
+Build your screen in black and white
+
+[Chorus]
+ANSI Encode, ANSI Encode
+Color the screen as you go
+ANSI Encode, ANSI Encode
+Server login, ready to glow
