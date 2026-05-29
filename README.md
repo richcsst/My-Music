@@ -4,7 +4,7 @@ This repository contains the music I have been writing.  There are lyrics, music
 
 ## COPYRIGHT
 
-Copyright 2026 Richard Kelsch
+Copyright © 2026 Richard Kelsch
 All Rights Are Reserved
 
 ## LICENSE
