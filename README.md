@@ -1,6 +1,6 @@
 # Richard Kelsch's Music
 
-This repository contains the music I have been writing.  There are lyrics, music and videos.
+This repository contains the music I have been writing.  There are lyrics and music.  All Music is in FLAC format.
 
 ## Songs
 
