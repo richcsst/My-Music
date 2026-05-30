@@ -22,6 +22,7 @@ This repository contains the music I have been writing.  There are lyrics and mu
 | | [Desert Marathon Hearts](https://github.com/richcsst/My-Music/blob/main/FLAC/Friends/Desert%20Marathon%20Hearts.flac) | [Desert Marathon Hearts Lyrics](https://github.com/richcsst/My-Music/blob/main/Lyrics/Friends/Desert%20Marathon%20Hearts.txt) | Family and Friends Only |
 | | [Run, Rhonda, Run](https://github.com/richcsst/My-Music/blob/main/FLAC/Friends/Run,%20Rhonda,%20Run.flac) | [Run, Rhonda, Run Lyrics](https://github.com/richcsst/My-Music/blob/main/Lyrics/Friends/Run,%20Rhonda,%20Run.txt) | Family and Friends Only |
 | | [Black Camaro, Desert Mile](https://github.com/richcsst/My-Music/blob/main/FLAC/Friends/Black%20Camaro,%20Desert%20Mile.flac) | [Black Camaro, Desert Mile Lyrics](https://github.com/richcsst/My-Music/blob/main/Lyrics/Friends/Black%20Camaro,%20Desert%20Mile.txt) | Family and Friends Only |
+| | [Troy](https://github.com/richcsst/My-Music/blob/main/FLAC/Friends/Troy.flac) | [Troy Lyrics](https://github.com/richcsst/My-Music/blob/main/Lyrics/Friends/Troy.txt) | Family and Friends Only |
 
 ## COPYRIGHT
 
